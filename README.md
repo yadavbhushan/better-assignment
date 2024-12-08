@@ -73,23 +73,3 @@ This will open the application in your default browser at `http://localhost:3000
 
 ---
 
-## Future Enhancements
-
-- Integrate with a backend authentication system to handle real user login and sign-up processes.
-- Implement password hashing to secure user credentials.
-- Add advanced form validation, such as checking for special characters, uppercase letters, and numeric characters in passwords.
-- Improve UI/UX with additional styling or by using UI libraries like Material-UI or Tailwind CSS.
-- Display loading states when submitting the form and show more detailed error messages on failed form submissions.
-
----
-
-## Contact Information
-
-For any questions or further development, feel free to reach out to the project maintainer:  
-**Email**: your-email@example.com
-
----
-
-### License
-
-This project is open-source and available under the MIT License.
