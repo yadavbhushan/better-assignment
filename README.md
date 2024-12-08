@@ -17,7 +17,7 @@ The app uses basic form validation, password strength checking, and data persist
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/login-signup-form.git
+git clone https://github.com/yadavbhushan/better-assignment.git
 ```
 
 ### 2. Install Dependencies
@@ -25,7 +25,7 @@ git clone https://github.com/your-username/login-signup-form.git
 Navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd login-signup-form
+cd react-auth-app
 npm install
 ```
 
